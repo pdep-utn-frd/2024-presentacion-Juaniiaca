@@ -1,10 +1,2 @@
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+# presentacion- Juan Ignacio Iacaruso
+Me llamo Juan Ignacio Iacaruso, aun no tengo muchos conocimientos sobre programacion. Tengo 20 años y estoy en segundo año de Ingenieria En Sistemas. Me gusta el futbol y la musica.
